@@ -1,13 +1,18 @@
-- 👋 Hi, I’m @Anshumaan2006
-- 👀 I’m interested in learning AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can mail me on anshumaanprakash055@gmail.com
-- @
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I'm Anshumaan Prakash 👋
 
-<!---
-Anshumaan2006/Anshumaan2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS undergrad from Ghaziabad | Building things with React & TypeScript
+
+### 🚀 What I'm building
+- **MindWellness** — mental wellness web app for college students (TypeScript + Vite + React)
+
+### 🛠 Tech stack
+`TypeScript` `React` `JavaScript` `Java` `Python` `HTML/CSS` `Git`
+
+### 📈 Currently learning
+- Flask (Python backend + REST APIs)
+- DSA — solving problems daily on LeetCode (48 solved)
+- Node.js
+
+### 📫 Reach me
+- 📧 anshumaanprakash055@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/anshumaan-prakash-436282306)
