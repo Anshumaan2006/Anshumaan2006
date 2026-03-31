@@ -10,7 +10,7 @@ CS undergrad from Ghaziabad | Building things with React & TypeScript
 
 ### 📈 Currently learning
 - Flask (Python backend + REST APIs)
-- DSA — solving problems daily on LeetCode (54 solved)
+- DSA — solving problems daily on LeetCode (58 solved)
 - Node.js
 
 ### 📫 Reach me
